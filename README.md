@@ -9,9 +9,9 @@
 
 - 🌱 I’m currently learning **Flutter**
 
-- 👨‍💻 All of my projects are available at [https://semvb.netlify.app/subsites/codes/codes.html](https://semvb.netlify.app/subsites/codes/codes.html)
+- 👨‍💻 All of my projects are available at [https://semvb.netlify.app/subsites/codes/codes.html](https://semvb.netlify.app/pages/projects)
 
-- 📝 I regularly write articles on [https://semvb.netlify.app/index.html](https://semvb.netlify.app/index.html)
+- 📝 I regularly write articles on [https://semvb.netlify.app/index.html](https://semvb.netlify.app/pages/blog_redirect)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
