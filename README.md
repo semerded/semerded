@@ -5,15 +5,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=semerded&theme=onedark" alt="semerded" /></a> </p>
 
-- 🔭 I’m currently working on [a customized to-do list](https://github.com/semerded/project_to_do_list)
+- 🔭 I’m currently working on [tower defense](https://github.com/semerded/tower-defense)
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **libGDX** (java)
 
-- 👨‍💻 All of my projects are available at [https://semvb.netlify.app/subsites/codes/codes.html](https://semvb.netlify.app/pages/projects)
+- 👨‍💻 All of my projects are available on [my project page](https://semvb.netlify.app/pages/projects)
 
-- 📝 I regularly write articles on [https://semvb.netlify.app/index.html](https://semvb.netlify.app/pages/blog_redirect)
+- 📝 I regularly write articles on [my blog page](https://semvb.netlify.app/pages/blog_redirect)
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Contact me <a href="https://semvb.netlify.app/pages/contact">here</a> :</h3>
 <p align="left">
 <a href="https://linkedin.com/in/sem van broekhoven" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sem van broekhoven" height="30" width="40" /></a>
 <a href="https://instagram.com/sem_van_broekhoven" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sem_van_broekhoven" height="30" width="40" /></a>
